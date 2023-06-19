@@ -1,0 +1,34 @@
+body {
+  max-width: 660px;
+  padding: 0 15px;
+  margin: 40px auto;
+  line-height: 150%;
+  font-size: 1rem;
+  font-family: "InterVar", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", sans-serif;
+  background-color: #f4f4f4;
+}
+
+.tiny img {
+  max-width: 100%;
+}
+
+.mypic img {
+  width: 450px;
+  max-height: 400px;
+  margin: 0 auto;
+  display: block;
+}
+
+article img {
+  max-width: 100%;
+}
+
+header > a {
+  margin: 8px;
+}
+
+.profLinks > a {
+  margin: 8px;
+}
+
+  
