@@ -5,7 +5,7 @@ Some of my projects:
 analyze massive server logs without crashing.
 
 **tech**: web workers, virtualization, debounce  
-**link**: [josh1-sarthak/log-optic](https://log-optic-jsosj4ksjd.vercel.app)
+**link**: [josh1-sarthak/log-optic](https://log-optic-josh-sj.vercel.app/)
 
 ### Tempo Mail
 
